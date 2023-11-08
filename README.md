@@ -4,16 +4,16 @@
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+  <a href="https://github.com/v662-coder/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+  <a href="https://github.com/v662-coder/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+  <a href="https://github.com/v662-coder/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <a href="https://github.com/v662-coder/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/>
   </a>
 </p>
@@ -27,7 +27,7 @@
   You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 </p>
 <p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
+  <a href="https://github.com/v662-coder">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
   </a>
 </p>
@@ -38,7 +38,7 @@ Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/v662-coder/github-profile-trophy)
 ```
 
 <p align="center">
